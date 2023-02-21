@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dain, an <a href="https://linkedin.com/in/dainriversstrobert">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dain, an <a href="https://linkedin.com/in/dainriversstrobert">Aspiring Cyber Security/Cloud Professional</a>☺</h1>
 
 <h2>💻 Information Technology & CyberSecurity Projects:</h2>
 
